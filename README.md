@@ -1,6 +1,9 @@
 # ToDoList
 
-TO DO LIST responsive web app having multiple custom lists
+TO DO LIST responsive web app having multiple custom lists using Node EJS.
+
+## DataBase
+For Database for are using Mongodb-Atlas.
 
 ### Tech Stack Used:
 HTML
